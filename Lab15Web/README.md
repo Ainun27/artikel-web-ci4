@@ -218,7 +218,7 @@ php spark db:seed UserSeeder
 
 #### Uji Coba Login
 - Selanjutnya buka url http://localhost:8080/user/login seperti berikut:
-![alt text](https://github.com/Ainun27/Lab13Web/blob/main/tugas12/1.png?raw=true)
+![alt text](https://github.com/Ainun27/artikel-web-ci4/blob/master/Lab15Web/tugas12/1.png?raw=true)
 
 #### Menambahkan Auth Filter
 - Selanjutnya membuat filer untuk halaman admin. Buat file baru dengan nama Auth.php pada direktori app/Filters.
@@ -258,4 +258,4 @@ $routes->group('admin', ['filter' => 'auth'], function($routes) {
 
 #### Percobaan Akses Menu Admin
 - Buka url dengan alamat http://localhost:8080/admin/artikel ketika alamat tersebut diaksesmaka, akan dimuculkan halaman login.
-![alt text](https://github.com/Ainun27/Lab13Web/blob/main/tugas12/2.png?raw=true)
+![alt text](https://github.com/Ainun27/artikel-web-ci4/blob/master/Lab15Web/tugas12/2.png?raw=true)
