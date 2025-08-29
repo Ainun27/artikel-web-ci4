@@ -24,7 +24,7 @@ echo "Ini halaman FAQ";
 }
 ```
 
-![alt text](https://github.com/Ainun27/Lab11Web/blob/main/Screenshot%202025-03-12%20201244.png)?raw=true)
+![alt text](https://github.com/Ainun27/artikel-web-ci4/blob/master/Lab11Web/Screenshot%202025-03-12%20201244.png)?raw=true)
 
 #### Membuat View
 ### about.php pada direktori view (app/view/about.php)
@@ -54,7 +54,7 @@ halaman ini.'
 ]);
 }
 ```
-![alt text](https://github.com/Ainun27/Lab11Web/blob/main/Screenshot%202025-03-12%20203023.png)?raw=true)
+![alt text](https://github.com/artikel-web-ci4/blob/master/Lab11Web/Screenshot%202025-03-12%20203023.png)?raw=true)
 
 #### Membuat Layout Web dengan CSS
 ## Buat file css pada direktori public dengan nama style.css (copy file dari praktikum lab4_layout. Kita akan gunakan layout yang pernah dibuat pada praktikum 4.
@@ -422,4 +422,4 @@ button[type="submit"]:hover {
     background-color: #555;
 }
 ```
-![alt text](https://github.com/Ainun27/Lab7Webb/blob/main/Screenshot%202025-03-12%20200740.png)?raw=true)
+![alt text](https://github.com/artikel-web-ci4/blob/master/Lab11Web/Screenshot%202025-03-12%20200740.png)?raw=true)
