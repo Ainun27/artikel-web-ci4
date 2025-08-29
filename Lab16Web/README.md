@@ -24,7 +24,7 @@ public function admin_index()
 <?= $pager->links(); ?>
 ```
 
-![alt text](https://github.com/Ainun27/Lab16Web/blob/main/1.png?raw=true)
+![alt text](https://github.com/Ainun27/artikel-web-ci4/blob/master/Lab16Web/1.png?raw=true)
 
 
 #### Membuat Pencarian
@@ -58,4 +58,4 @@ public function admin_index()
 ```sh
 <?= $pager->only(['q'])->links(); ?>
 ```
-![alt text](https://github.com/Ainun27/Lab16Web/blob/main/2.png?raw=true)
+![alt text](https://github.com/Ainun27/artikel-web-ci4/blob/master/Lab16Web/2.png?raw=true)
