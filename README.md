@@ -12,7 +12,24 @@ Proyek ini menjadi dasar sebelum mengerjakan projek besar, yaitu **NutriScan Web
 - 📑 Tampilan daftar artikel dengan Bootstrap
 
 ---
+## Dikumentasi Halaman Tampilan Web
 
+### Halaman Login admin
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/332df064-1e08-4fa4-85cb-cf418d6ecc91" />
+
+### Halaman Utama Admin
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/a180690e-2497-4350-8230-d987aacf972d" />
+
+### Halaman Tambah Artikel
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/01a5dc48-7fcc-43d2-8ad7-422a1f2d277a" />
+
+### Halaman Tampilan User
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/cef41af8-74e2-4131-ac70-15b5c1548337" />
+
+### Halaman Detail Artikel
+![Uploading image.png…]()
+
+---
 ## 🛠️ Tech Stack
 - **Framework**: CodeIgniter 4  
 - **Backend**: PHP 8.x  
